@@ -58,4 +58,60 @@
 # elif age > 1200:
 #         print('your are a vampair')
 # elif age > 30:
-#         print('ha ha ha yes')
+#         print('ha ha ha yes') 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#######for loop wita range() function
+# print('My name is')
+# for i in range(5):
+#         print('Pulak five times ('+ str(i) +')' ) 
+
+
+
+
+
+
+
+
+
+
+
+##########
+# total = 0
+# for num in range(101):
+#         total=total+num
+# print(total)
+
+
+
+
+
+
+
+
+
+
+
+
+################
+# print('myname is')
+# i=0
+# while i < 5:
+#         print('pulak five time ('+ str(i) +')')
+#         i=i+1
